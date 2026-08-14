@@ -19,7 +19,7 @@ if "threat_count" not in st.session_state:
 # Page Configuration
 # -------------------------
 st.set_page_config(
-    page_title="AI Powered Cyber Threat Detection System",
+    page_title="AI-Based Multi-Stage Cyber Threat Detection and RIsk Assessment Syste",
     page_icon="🛡️",
     layout="wide"
 )
@@ -135,7 +135,7 @@ st.markdown("""
 <h1 style='text-align:center;
 color:#FFD700;
 font-size:42px;'>
-🛡️ AI Powered Cyber Threat Detection System
+🛡️AI-Based Multi-Stage Cyber Threat Detection and RIsk Assessment Syste
 </h1>
 """, unsafe_allow_html=True)
 st.divider()
